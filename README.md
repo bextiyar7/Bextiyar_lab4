@@ -1,0 +1,2 @@
+# Metni-tersine-cevirme
+JavaScript
